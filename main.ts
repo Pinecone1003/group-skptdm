@@ -381,6 +381,18 @@ function Level_Control () {
             `, SpriteKind.Player)
         controller.moveSprite(mySprite)
     }
+    if (Level == 2) {
+    	
+    }
+    if (Level == 3) {
+    	
+    }
+    if (Level == 4) {
+    	
+    }
+    if (Level == 5) {
+    	
+    }
 }
 let mySprite: Sprite = null
 let Help: Sprite = null
